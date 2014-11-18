@@ -1,0 +1,55 @@
+# NAME
+
+Dist::Zilla::Plugin::Git::GPG::TestKeyAvailability - The great new Dist::Zilla::Plugin::Git::GPG::TestKeyAvailability!
+
+# VERSION
+
+This document describes version 0.001 of Dist::Zilla::Plugin::Git::GPG::TestKeyAvailability - released November 17, 2014 as part of Dist-Zilla-Plugin-Git-GPG-TestKeyAvailability.
+
+# SYNOPSIS
+
+# DESCRIPTION
+
+# ATTRIBUTES
+
+## git\_config\_key\_set
+
+## live\_git\_tag\_create\_test
+
+Boolean.  Live git tag creation test.
+
+# METHODS
+
+## before\_release
+
+Tests to ensure we can create a signed tag before going through the release
+process.
+
+# AUTHOR
+
+Chris Weyl <cweyl@alumni.drew.edu>
+
+## I'm a material boy in a material world
+
+<div>
+    <a href="https://www.gittip.com/RsrchBoy/"><img src="https://raw.githubusercontent.com/gittip/www.gittip.com/master/www/assets/%25version/logo.png" /></a>
+    <a href="http://bit.ly/rsrchboys-wishlist"><img src="http://wps.io/wp-content/uploads/2014/05/amazon_wishlist.resized.png" /></a>
+    <a href="https://flattr.com/submit/auto?user_id=RsrchBoy&url=&title=RsrchBoy's%20CPAN%20Dist-Zilla-Plugin-Git-GPG-TestKeyAvailability&tags=%22RsrchBoy's%20Dist-Zilla-Plugin-Git-GPG-TestKeyAvailability%20in%20the%20CPAN%22"><img src="http://api.flattr.com/button/flattr-badge-large.png" /></a>
+</div>
+
+Please note **I do not expect to be gittip'ed or flattr'ed for this work**,
+rather **it is simply a very pleasant surprise**. I largely create and release
+works like this because I need them or I find it enjoyable; however, don't let
+that stop you if you feel like it ;)
+
+[Flattr this](https://flattr.com/submit/auto?user_id=RsrchBoy&url=&title=RsrchBoy&#x27;s%20CPAN%20Dist-Zilla-Plugin-Git-GPG-TestKeyAvailability&tags=%22RsrchBoy&#x27;s%20Dist-Zilla-Plugin-Git-GPG-TestKeyAvailability%20in%20the%20CPAN%22),
+[gittip me](https://www.gittip.com/RsrchBoy/), or indulge my
+[Amazon Wishlist](http://bit.ly/rsrchboys-wishlist)...  If you so desire.
+
+# COPYRIGHT AND LICENSE
+
+This software is Copyright (c) 2014 by Chris Weyl.
+
+This is free software, licensed under:
+
+    The GNU Lesser General Public License, Version 2.1, February 1999
